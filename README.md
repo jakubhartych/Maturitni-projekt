@@ -14,7 +14,8 @@ Zde lze najít všechny podklady, dokumentaci a informace o průběhu projektu.
 
 ## 📑 Obsah a struktura
 * `/dokumentace` – textové soubory a dokumenty
-* `/Média3.jpeg` – Obrázky, schémata a další podklady
+* `/vizualizace` – Obrázky, schémata a další podklady
+![Počítač](Média3.jpeg){width=1920 height=1080}
 
 ---
 
