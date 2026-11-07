@@ -15,8 +15,8 @@ Zde lze najít všechny podklady, dokumentaci a informace o průběhu projektu.
 ## 📑 Obsah a struktura
 * `/dokumentace` – textové soubory a dokumenty
 * `/vizualizace` – Obrázky, schémata a další podklady
-![Počítač](Média3.jpeg){width=1920 height=1080}
 
+<img src="Média3.jpeg" width="320" height="200" alt="Počítač"><img src="Média (1).jpeg" width="320" height="200" alt="Počítač"><img src="Média (2).jpeg" width="320" height="200" alt="Počítač">
 ---
 
 ## 📅 Harmonogram / Stavy
