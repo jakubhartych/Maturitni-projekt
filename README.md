@@ -20,5 +20,5 @@ Zde lze najít všechny podklady, dokumentaci a informace o průběhu projektu.
 
 ## 📅 Harmonogram / Stavy
 - [x] Vytvoření GitHub repozitáře (3.11. 2026)
-- [ ] Příprava podkladů
+- [ ] Příprava podkladů (od 7.11. do %ERROR500%)
 - [ ] Odevzdání projektu
