@@ -24,10 +24,11 @@ Zde lze najít všechny podklady, dokumentaci a informace o průběhu projektu.
 
 **Vybavení školy:**
 
-<img src="Média3.jpeg" width="214" height="134" alt="Počítač"><img src="Média (1).jpeg" width="214" height="134" alt="Myš"><img src="Média (2).jpeg" width="214" height="134" alt="ESP modul">
+<img src="Média3.jpeg" width="214" height="134" alt="Počítač"><img src="Média (1).jpeg" width="214" height="134" alt="Myš"><img src="Média (2).jpeg" width="214" height="134" alt="ESP modul"><img src="Média (3).jpeg" width="214" height="134" alt="karta">
 - Raspberry Pi 400 s Home Assistant OS (HAOS)
 - Myš
 - Zigbee / Wi-Fi chytrý spotřebič
+- MicroSD karta
 
 **Vybavení autora projektu:**
 
