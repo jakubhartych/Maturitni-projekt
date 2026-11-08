@@ -6,14 +6,20 @@ Zde lze najít všechny podklady, dokumentaci a informace o průběhu projektu.
 ---
 
 ## 📌 O projektu
-* **Autor:** Jakub Hartych
+* **Autor práce:** Jakub Hartych
+* **Vedoucí práce:** Ing. Jiří Vintera
 * **Školní rok:** 2026 / 2027
-* **Téma:** Home assistant
+* **Název školy:** Střední průmyslová škola elektrotechniky a informačních technologií, Dobruška
+* **Téma:** Home assistant – domácí automatizace s ukázkou ovládání světel
 
 ---
 
 ## 📑 Obsah a struktura
 * `/dokumentace` – textové soubory a dokumenty
+
+  #### 1. kontrolní bod (do 13. 11. 2026):
+    - osnova práce a text práce (3-4 normostrany): <a href="url"></a>
+  
 * `/vizualizace` – Obrázky, schémata a další podklady
 
 **Vybavení školy:**
@@ -22,6 +28,10 @@ Zde lze najít všechny podklady, dokumentaci a informace o průběhu projektu.
 - Raspberry Pi 400 s Home Assistant OS (HAOS)
 - Myš
 - Zigbee / Wi-Fi chytrý spotřebič
+
+**Vybavení autora projektu:**
+
+- štěstí
 
 ---
 
