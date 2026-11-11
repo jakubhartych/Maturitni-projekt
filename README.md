@@ -37,7 +37,7 @@ Zde lze najít všechny podklady, dokumentaci a informace o průběhu projektu.
 
 * `docs/` – textové soubory a dokumenty
   #### 1. kontrolní bod (do 13. 11. 2026):
-    - osnova práce a text práce (3-4 normostrany): <a href="url"></a> 
+    - osnova práce a text práce (3-4 normostrany): <a href="maturitn_prace_kontrolni_bod_1.md">1. kontrolní bod</a>
 
 ---
 
