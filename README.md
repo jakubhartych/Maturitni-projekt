@@ -15,24 +15,29 @@ Zde lze najít všechny podklady, dokumentaci a informace o průběhu projektu.
 ---
 
 ## 📑 Obsah a struktura
-* `/dokumentace` – textové soubory a dokumenty
 
-  #### 1. kontrolní bod (do 13. 11. 2026):
-    - osnova práce a text práce (3-4 normostrany): <a href="url"></a>
-  
-* `/vizualizace` – Obrázky, schémata a další podklady
+* `config/` - konfigurační soubory a skripty: 
+
+* `network/` – Obrázky, schémata a další podklady
 
 **Vybavení školy:**
 
-<img src="Média3.jpeg" width="214" height="134" alt="Počítač"><img src="Média (1).jpeg" width="214" height="134" alt="Myš"><img src="Média (2).jpeg" width="214" height="134" alt="ESP modul"><img src="Média (3).jpeg" width="214" height="134" alt="karta">
+<img src="Média3.jpeg" width="214" height="134" alt="Počítač"><img src="Média (1).jpeg" width="214" height="134" alt="Myš"><img src="Média (3).jpeg" width="214" height="134" alt="karta">
 - Raspberry Pi 400 s Home Assistant OS (HAOS)
 - Myš
 - Zigbee / Wi-Fi chytrý spotřebič
 - MicroSD karta
 
-**Vybavení autora projektu:**
+**Vybavení autora zadané práce:**
 
-- štěstí
+<img src="" width="214" height="134" alt="USB">
+- CONFIG USB
+
+* `cad/` - (STEP, STL):
+
+* `docs/` – textové soubory a dokumenty
+  #### 1. kontrolní bod (do 13. 11. 2026):
+    - osnova práce a text práce (3-4 normostrany): <a href="url"></a> 
 
 ---
 
