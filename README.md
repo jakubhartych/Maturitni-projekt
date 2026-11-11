@@ -30,7 +30,8 @@ Zde lze najít všechny podklady, dokumentaci a informace o průběhu projektu.
 
 **Vybavení autora zadané práce:**
 
-<img src="" width="214" height="134" alt="USB">
+<img src="" width="214" height="134" alt="PICO"><img src="" width="214" height="134" alt="USB">
+- Raspberry PI PICO W
 - CONFIG USB
 
 * `cad/` - (STEP, STL):
