@@ -30,9 +30,10 @@ Zde lze najít všechny podklady, dokumentaci a informace o průběhu projektu.
 
 **Vybavení autora zadané práce:**
 
-<img src="Média (4).jpg" width="214" height="134" alt="PICO"><img src="" width="214" height="134" alt="USB">
+<img src="Média (4).jpg" width="214" height="134" alt="PICO"><img src="Média (5).jpg" width="214" height="134" alt="USB"><img src="Média (6).jpg" width="214" height="134" alt="Kabel">
 - Raspberry PI PICO W
 - CONFIG USB
+- adaptér HDMI & micro HDMI
 
 * `cad/` - (STEP, STL):
 
