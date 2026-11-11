@@ -18,26 +18,28 @@ Zde lze najít všechny podklady, dokumentaci a informace o průběhu projektu.
 
 * `config/` - konfigurační soubory a skripty: 
 
-* `network/` – Obrázky, schémata a další podklady
+* `network/` – Obrázky, schémata a další podklady:
 
 **Vybavení školy:**
 
 <img src="Média3.jpeg" width="214" height="134" alt="Počítač"><img src="Média (1).jpeg" width="214" height="134" alt="Myš"><img src="Média (3).jpeg" width="214" height="134" alt="karta">
-- Raspberry Pi 400 s Home Assistant OS (HAOS)
-- Myš
-- Zigbee / Wi-Fi chytrý spotřebič
-- MicroSD karta
+  #### názvy vybavení:
+    - Raspberry Pi 400 s Home Assistant OS (HAOS)
+    - Myš
+    - Zigbee / Wi-Fi chytrý spotřebič
+    - MicroSD karta
 
 **Vybavení autora zadané práce:**
 
 <img src="Média (4).jpg" width="214" height="134" alt="PICO"><img src="Média (5).jpg" width="214" height="134" alt="USB"><img src="Média (6).jpg" width="214" height="134" alt="Kabel">
-- Raspberry PI PICO W
-- CONFIG USB
-- adaptér HDMI & micro HDMI
+  #### názvy vybavení:
+    - Raspberry PI PICO W
+    - CONFIG USB
+    - adaptér HDMI & micro HDMI
 
 * `cad/` - (STEP, STL):
 
-* `docs/` – textové soubory a dokumenty
+* `docs/` – textové soubory a dokumenty:
   #### 1. kontrolní bod (do 13. 11. 2026):
     - osnova práce a text práce (3-4 normostrany): <a href="maturitn_prace_kontrolni_bod_1.md">1. kontrolní bod</a>
 
