@@ -20,22 +20,22 @@ Zde lze najít všechny podklady, dokumentaci a informace o průběhu projektu.
 
 * `network/` – Obrázky, schémata a další podklady:
 
-**Vybavení školy:**
+**Zapůjčené vybavení školy:**
 
 <img src="Média3.jpeg" width="214" height="134" alt="Počítač"><img src="Média (1).jpeg" width="214" height="134" alt="Myš"><img src="Média (3).jpeg" width="214" height="134" alt="karta">
   #### názvy vybavení:
     - Raspberry Pi 400 s Home Assistant OS (HAOS)
     - Myš
-    - Zigbee / Wi-Fi chytrý spotřebič
     - MicroSD karta
 
 **Vybavení autora zadané práce:**
 
 <img src="Média (4).jpg" width="214" height="134" alt="PICO"><img src="Média (5).jpg" width="214" height="134" alt="USB"><img src="Média (6).jpg" width="214" height="134" alt="Kabel">
   #### názvy vybavení:
-    - Raspberry PI PICO W
+    - Raspberry PI PICO W (Zigbee / Wi-Fi chytrý spotřebič)
     - CONFIG USB
     - adaptér HDMI & micro HDMI
+    - (+) další kabelová & napájecí příslušenství
 
 * `cad/` - (STEP, STL):
 
