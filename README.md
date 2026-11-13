@@ -47,7 +47,7 @@ Zde lze najít všechny podklady, dokumentaci a informace o průběhu projektu.
 
 ## 📅 Harmonogram / Stavy
 - [x] 0. kontrolní bod (do 15. 10. 2026) – Start, GitHub
-- [ ] 1. kontrolní bod (do 13. 11. 2026) – Instalace HAOS, zprovoznění sítě a první spotřebič
+- [x] 1. kontrolní bod (do 13. 11. 2026) – Instalace HAOS, zprovoznění sítě a první spotřebič
 - [ ] 2. kontrolní bod (do 18. 12. 2026) – Zabezpečení sítě (HTTPS, 2FA), segmentace a 1. automatizace
 - [ ] 3. kontrolní bod (do 15. 1. 2027) – Lovelace Dashboard, fyzické uspořádání a stabilita
 - [ ] 4. kontrolní bod (do 19. 2. 2027) – Dlouhodobé ukládání dat (30 dní), IT security, vzdálený přístup (nepovinné)
