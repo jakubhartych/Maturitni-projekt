@@ -17,23 +17,7 @@ Cílem projektu je vytvořit stabilní, bezpečný a modulární systém pro aut
 
 Projekt kombinuje moderní hardwarové prvky s otevřeným softwarovým ekosystémem. Systematické propojení centrální jednotky a mikrokontroléru vytváří distribuovanou architekturu schopnou dalšího rozšiřování o senzory a akční členy.
 
-```
-+-------------------------------------------------------+
-|                 Home Assistant OS                     |
-|                (Raspberry Pi 400)                     |
-|  - ESPHome Dashboard                                  |
-|  - Core Automation & Logging Engine                   |
-+---------------------------+---------------------------+
-                            |
-                 Wi-Fi Síť / mDNS Protokol
-                            |
-+---------------------------v---------------------------+
-|                 Raspberry Pi Pico W                   |
-|                   (RP2040 + CYW43439)                 |
-|  - Custom ESPHome Firmware (.uf2)                     |
-|  - GPIO Output control (Wi-Fi Bus LED)                |
-+-------------------------------------------------------+
-```
+<img src="malinaV5.png" width="379" height="312" alt="spotrebic">
 
 ## 2.1 Centrální jednotka: Raspberry Pi 400 a Home Assistant OS
 Pro roli centrálního serveru byl zvolen počítač **Raspberry Pi 400**, vestavěný do kompaktní klávesnice. Tento model disponuje čtyřjádrovým procesorem ARM Cortex-A72 (ARMv8) s taktovací frekvencí 1.8 GHz a 4 GB RAM, což poskytuje dostatečný výpočetní výkon pro běh domovského serveru a databázové operace.
